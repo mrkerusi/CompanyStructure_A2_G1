@@ -3,6 +3,8 @@ Project Repository for Software Design and Development Course - Module Company S
 
 This Project is to complete the requirement for Software Design and Development Assignment 2 Group Project.
 
+UNITAR International University
+
 The Group consist of 3 Members, the members are 
 1. Brightson Jupirik / MC210413533 
 2. Mior Muzaffar Bin Mior Dahalan /MC210413744 
