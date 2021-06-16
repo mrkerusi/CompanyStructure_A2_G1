@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbf1b38f-6a6c-4cf5-b78c-64eb631d306f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompanyStructure_A2_G1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Module_CompanyStructure/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/Accountant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/Accountant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/BusinessEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/BusinessEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/BusinessLead.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/BusinessLead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/SoftwareEngineer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/SoftwareEngineer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/TechnicalEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/TechnicalEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/TechnicalLead.class" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/out/production/Module_CompanyStructure/com/company/mc210413533/TechnicalLead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/BusinessEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/BusinessEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/BusinessLead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/BusinessLead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/SoftwareEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/SoftwareEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/TechnicalEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/TechnicalEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/TechnicalLead.java" beforeDir="false" afterPath="$PROJECT_DIR$/Module_CompanyStructure/src/com/company/mc210413533/TechnicalLead.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tqm5Y9bZs5nUZvOxRDU8JeLQlM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Module_CompanyStructure" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbf1b38f-6a6c-4cf5-b78c-64eb631d306f" name="Default Changelist" comment="" />
+      <created>1623504811336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623504811336</updated>
+    </task>
+    <servers />
+  </component>
+</project>
